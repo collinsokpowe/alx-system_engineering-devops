@@ -1,2 +1,3 @@
 #!/bin/bash
+groups
 chmod u+x (filename)
