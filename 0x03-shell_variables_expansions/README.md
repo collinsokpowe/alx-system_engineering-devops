@@ -28,3 +28,5 @@ file 7 creates a global variable
  this file converts decimal to hexadecimal
 
  file 101 encrypts and decrypts text
+
+ file 102 prints every other line from the input
