@@ -26,3 +26,5 @@ file 7 creates a global variable
  file 13 print numbers in two decimal places
 
  this file converts decimal to hexadecimal
+
+ file 101 encrypts and decrypts text
