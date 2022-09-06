@@ -13,3 +13,5 @@ n a path
 
  file 6 creates a new local variable
 file 7 creates a global variable
+
+ file 8 adds 128 to the value in a file named TRUEKNOWLEDGE
