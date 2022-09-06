@@ -24,3 +24,5 @@ file 7 creates a global variable
  file 12 prints a combination of letters without oo
 
  file 13 print numbers in two decimal places
+
+ this file converts decimal to hexadecimal
