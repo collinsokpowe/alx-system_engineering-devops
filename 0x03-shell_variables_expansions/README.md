@@ -10,3 +10,5 @@ n a path
  task 4 prints all the environment variables
 
  file 5 lists all local, environmental variables and functions
+
+ file 6 creates a new local variable
