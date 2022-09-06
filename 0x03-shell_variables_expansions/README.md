@@ -15,3 +15,5 @@ n a path
 file 7 creates a global variable
 
  file 8 adds 128 to the value in a file named TRUEKNOWLEDGE
+
+ file 9 divides two environment variables
