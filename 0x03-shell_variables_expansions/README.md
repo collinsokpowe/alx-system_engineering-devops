@@ -6,3 +6,5 @@ task 1 prints the current user
  file 3 counts the number of directories i
 
 n a path
+
+ task 4 prints all the environment variables
