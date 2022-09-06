@@ -19,3 +19,4 @@ file 7 creates a global variable
  file 9 divides two environment variables
 
  file 10 prints the result of two variables
+\ file 11 converts binary to decimal
