@@ -12,3 +12,4 @@ n a path
  file 5 lists all local, environmental variables and functions
 
  file 6 creates a new local variable
+file 7 creates a global variable
